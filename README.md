@@ -1,4 +1,4 @@
-# flutter_structure
+# clean_counter
 
 A new Flutter project.
 

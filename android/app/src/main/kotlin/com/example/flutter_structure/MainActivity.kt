@@ -1,4 +1,4 @@
-package com.example.flutter_structure
+package com.example.clean_counter
 
 import io.flutter.embedding.android.FlutterActivity
 
